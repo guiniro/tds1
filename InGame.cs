@@ -23,6 +23,7 @@ namespace TicTacToe
             this.jogador1 = jogador1;
             this.jogador2 = jogador2;
             this.jogador3 = jogador3;
+            jogador 4 teste 1
         }
 
         public void StatusDoJogo()
